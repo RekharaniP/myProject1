@@ -1,0 +1,20 @@
+{
+  "name": "cropchat",
+  "short_name": "cropchat",
+  "icons": [
+    {
+      "src": "/static/img/icons/Holiday.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/img/icons/Holiday.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "theme_color": "#2196f3"
+}
